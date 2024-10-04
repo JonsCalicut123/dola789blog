@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Dola789 - Thiên đường đá gà hàng đầu tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Dola789 <https://dola789.blog/>`_ được công nhận là nền tảng cá cược hàng đầu tại Việt Nam trong lĩnh vực đá gà, với nhiều năm kinh nghiệm và thương hiệu vững mạnh, thu hút một lượng lớn người chơi trung thành. Kể từ khi ra mắt vào năm 2021, Dola789 đã nhanh chóng trở thành điểm đến ưa thích cho những ai đam mê cá cược, đặc biệt với giấy phép hoạt động từ Cagayan Economic Zone và Isle of Man, đảm bảo môi trường cá cược an toàn và minh bạch. Dola789 nổi bật với giao diện đẳng cấp, hệ thống giao dịch nhanh chóng, dịch vụ khách hàng tận tâm và bảo mật đa tầng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 64N Tổ 28 kp3, Hiệp Thành, Quận 12, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0886654075. 
 
-Contents
---------
+Email: info@dola789.blog. 
 
-.. toctree::
+Website: https://dola789.blog/ 
 
-   usage
-   api
+#dola789 #trangchudola789 #dangkydola789 #dangnhapdola789 #linkdola789
